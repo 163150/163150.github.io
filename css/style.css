@@ -61,3 +61,18 @@ a .cart {
   display: none;
 }
 
+section {
+  height: 100vh;
+  background-image: url("LatestRelease1.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
+
+.image_2 {
+  background-image: url("LatestRelease2.jpeg");
+}
+
+.image_3 {
+  background-image: url("LatestRelease3.jpeg");
+}
