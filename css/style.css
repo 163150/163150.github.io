@@ -17,6 +17,10 @@ nav {
   
 }
 
+.latest_release img {
+  width: 100vw;
+}  
+
 .logo {
   height: 60px;
   width: auto;
