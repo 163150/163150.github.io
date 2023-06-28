@@ -7,7 +7,7 @@
 body {
   font-family: Roboto;
   position: relative;
-  width: auto;
+  min-height: 100vh;
 
 }
 
