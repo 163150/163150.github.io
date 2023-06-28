@@ -114,7 +114,7 @@ footer {
     border-radius: 50%;
 }
 .socials a i{
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 1.1rem;
     width: 20px;
     transition: color .4s ease;
