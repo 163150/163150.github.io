@@ -73,6 +73,9 @@ a .cart {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  background-color: #000000;
+  color: #ffffff;
+  padding-top: 32px;
 }
 
 .artist-card {
@@ -94,6 +97,16 @@ a .cart {
 .artist-description {
   border: 5px solid #c80000;
   padding: 15px;
+}
+
+.value-proposition {
+  background-color: #c80000;
+  color: #ffffff;
+  padding: 64px;
+  border-left: 30px solid black;
+  border-top: 30px solid black;
+  border-right: 30px solid black;
+  border-bottom: 62px solid black;
 }
 
 /* Footer */
